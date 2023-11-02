@@ -1,0 +1,5 @@
+outs:
+- md5: d7431f03e2e8c0367e7c91760d7ad8fc
+  size: 845190
+  hash: md5
+  path: datos_tarjetas_mc.csv
