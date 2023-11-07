@@ -9,7 +9,7 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: ABR23-24
 
-Respositorio actualizado.
+Respositorio actualizado - Contenido listo para el cierre del Sprint #1.
 
 ## Descripción del contenido
 
